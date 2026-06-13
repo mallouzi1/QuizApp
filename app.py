@@ -2,7 +2,7 @@
 """
 Quiz App — an intentionally insecure web application for SECURITY EDUCATION.
 
-⚠️  WARNING: This app contains DELIBERATE security vulnerabilities used to
+    WARNING: This app contains DELIBERATE security vulnerabilities used to
     teach web-security concepts (similar to OWASP WebGoat / DVWA).
     DO NOT deploy this on a public server or use it with real data.
     Run it ONLY on a local machine / trusted lab network.
