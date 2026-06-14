@@ -6,7 +6,7 @@ to be used the way [OWASP WebGoat](https://owasp.org/www-project-webgoat/) or
 [DVWA](https://github.com/digininja/DVWA) are: as a safe target for learning
 and teaching common web-application vulnerabilities.
 
-> ⚠️ **Do not deploy this on a public server or use it with real data.**
+> **Do not deploy this on a public server or use it with real data.**
 > Run it only on your local machine or an isolated lab network.
 
 ## Run it
